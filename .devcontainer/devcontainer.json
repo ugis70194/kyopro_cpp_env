@@ -1,0 +1,10 @@
+{
+    "name": "kyopro",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "kyopro",
+    "workspaceFolder": "/home/docker/work",
+    "extensions": [
+        "ms-vscode.cpptools",
+    ],
+    "remoteUser": "docker"
+}
